@@ -1,45 +1,43 @@
-<!-- PROFILE HEADER -->
+<!-- ===================== PROFILE HEADER ===================== -->
 
 <div align="center">
 
-# Hi, I'm Mayar Majed Hussien 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,45:243B55,100:6C63FF&height=190&section=header&text=Mayar%20Majed%20Hussien&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20%7C%20Generative%20AI%20%7C%20AI%20Agents&descAlignY=60&descSize=16" width="100%" />
 
-### Machine Learning Engineer | Deep Learning | Generative AI | AI Agents
+### Machine Learning Engineer · Deep Learning · Generative AI · AI Agents
 
-Building intelligent systems — from predictive machine learning models to autonomous multi-agent applications.
+Building practical AI solutions — from machine learning models and multimodal applications to autonomous multi-agent systems.
 
 <br/>
 
 <a href="https://github.com/mayarmajed2">
-  <img src="https://img.shields.io/badge/GitHub-mayarmajed2-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/mayarmajed">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<a href="https://www.kaggle.com/mayarmajed">
+  <img src="https://img.shields.io/badge/Kaggle-View%20My%20Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </a>
-<a href="mailto:mayarmagid2005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://huggingface.co/mayarmajed">
+  <img src="https://img.shields.io/badge/Hugging%20Face-Explore%20My%20AI%20Work-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:243B55,100:6C63FF&height=3&section=header" width="100%" />
+<a href="mailto:m.fathallah2386@su.edu.eg">
+  <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
+---
+
 ## 👩‍💻 About Me
 
-I'm a Machine Learning Engineer and IT & Computer Science student at **Sinai University**, passionate about developing intelligent solutions using Machine Learning, Deep Learning, Computer Vision, and Generative AI.
+I'm a Machine Learning Engineer and Information Technology & Computer Science student at **Sinai University**, interested in building intelligent applications that connect data, models, and real-world use cases.
 
-My work focuses on transforming AI concepts into practical applications, including predictive models, multimodal AI pipelines, LLM-powered applications, and autonomous multi-agent systems.
+My work spans **Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, and AI Agents**. I enjoy working across the development lifecycle — exploring datasets, preparing data, training and evaluating models, and integrating AI capabilities into usable applications.
 
-I enjoy exploring new technologies, experimenting with AI architectures, and building end-to-end solutions that solve real-world problems.
-
-- 🎓 B.Sc. in Information Technology & Computer Science — Sinai University.
-- 🤖 Interested in Machine Learning, Deep Learning, Generative AI, and Agentic AI.
-- 🧠 Experienced with model development, evaluation, fine-tuning, and prompt engineering.
-- 🔬 Completed the Microsoft Machine Learning Engineer track through DEPI.
-- 🚀 Currently exploring AI agents, MCP, and intelligent software engineering systems.
-- 📍 Cairo, Egypt.
+- 🎓 B.Sc. in Information Technology & Computer Science — Sinai University
+- 🧠 Focus areas: Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI
+- 🤖 Exploring LLM applications, MCP, and multi-agent architectures
+- 🔬 Completed the Microsoft Machine Learning Engineer track through DEPI
+- 📍 Cairo, Egypt
 
 ---
 
@@ -55,122 +53,79 @@ I enjoy exploring new technologies, experimenting with AI architectures, and bui
 
 </div>
 
-### 01. Machine Learning
+### 01 · Machine Learning
 
-Building predictive models and applying supervised learning techniques to real-world datasets.
+Developing predictive models and applying machine learning techniques to structured datasets.
 
-**Areas:**
-- Classification & Regression
-- Predictive Modeling
-- Data Preprocessing
-- Feature Engineering
-- Model Evaluation & Optimization
+- Classification and regression
+- Data preprocessing and feature engineering
+- Model training, evaluation, and optimization
+- Exploratory data analysis
 
-**Projects:**
-- Student Performance Prediction
-- Customer Churn Prediction
+### 02 · Deep Learning & Computer Vision
 
-### 02. Deep Learning & Computer Vision
+Working with neural networks and computer vision workflows for image-based applications.
 
-Exploring neural networks and deep learning approaches for image-based intelligent applications.
+- Neural networks and transfer learning
+- Image classification
+- PyTorch and model evaluation
+- Image preprocessing and analysis
 
-**Technologies:**
-- PyTorch
-- Transfer Learning
-- Image Classification
-- Computer Vision
+### 03 · Generative AI & Multimodal Systems
 
-**Project:**
-- AI Image Classification
+**Featured Project — [Emotion-to-Art AI](https://github.com/mayarmajed2/Emotion-Aware-Multi-Artist-Generative-Art-with-Al-Interpretation-on-Gradient1)**
 
-### 03. Generative AI & Multimodal Systems
+An offline multimodal application that interprets emotions from text and facial images, analyzes visual scenes, and generates artwork using Stable Diffusion.
 
-Developing applications that combine text understanding, image analysis, and generative models.
+**Highlights**
+- Text emotion classification with DistilRoBERTa
+- Facial emotion recognition with a Vision Transformer
+- Image captioning with BLIP
+- Emotion-aware prompt construction and artistic style selection
+- Local image generation with Stable Diffusion
+- Color analysis using OpenCV and K-Means
+- Interactive Streamlit interface
 
-**Featured Project: Emotion-to-Art AI**
+**Tech:** `Python` · `PyTorch` · `Transformers` · `Diffusers` · `Stable Diffusion` · `OpenCV` · `Streamlit`
 
-An offline multimodal AI system that analyzes emotions from text and facial images, interprets visual scenes, and generates artistic images using Stable Diffusion.
+### 04 · AI-Powered Applications
 
-**Key Features:**
-- Text-based emotion detection using DistilRoBERTa.
-- Facial emotion recognition using Vision Transformers.
-- Image captioning using BLIP.
-- Artistic prompt engineering.
-- Local image generation using Stable Diffusion.
-- Image color analysis using OpenCV and K-Means.
-- Interactive Streamlit application.
+**[Skill-Match](https://github.com/mayarmajed2/skill-match)**
 
-**Tech Stack:**
+A full-stack platform that connects users' skills with relevant job opportunities and calculates matching scores.
 
-`Python` `PyTorch` `Hugging Face` `Transformers` `Diffusers` `Stable Diffusion` `OpenCV` `Streamlit`
+- User authentication and authorization
+- Skills and jobs management
+- REST API and matching endpoints
+- React frontend
+- Interactive API documentation with Swagger and ReDoc
 
-🔗 **[Explore Emotion-to-Art AI](https://github.com/mayarmajed2/Emotion-Aware-Multi-Artist-Generative-Art-with-Al-Interpretation-on-Gradient1)**
+**Tech:** `Node.js` · `Express.js` · `MongoDB` · `React` · `Vite` · `React Query`
 
-### 04. AI-Powered Applications
+**[PI_TECH](https://github.com/mayarmajed2/PI_TECH)**
 
-Building complete applications that combine backend services, databases, APIs, and intelligent functionality.
+A technology project from my portfolio. Visit the repository for its source code and project details.
 
-**Skill-Match**
+### 05 · AI Agents & MCP
 
-A full-stack platform designed to connect users' skills with relevant job opportunities and calculate matching percentages.
+**[Agent Router MCP](https://github.com/mayarmajed2/agent-router-mcp)**
 
-- REST API backend.
-- User authentication and authorization.
-- Skills and jobs management.
-- Matching endpoints.
-- Interactive frontend.
-- Swagger and ReDoc API documentation.
+An MCP-based project focused on exposing AI capabilities through a tool interface and connecting with an OpenAI-compatible agent-routing API.
 
-**Tech Stack:**
+- MCP tool integration
+- Asynchronous API communication
+- Configurable model selection
+- Streamable HTTP transport
 
-`Node.js` `Express.js` `MongoDB` `React` `Vite` `React Query`
+**Tech:** `Python` · `MCP` · `FastMCP` · `OpenAI SDK` · `AsyncIO`
 
-🔗 **[Explore Skill-Match](https://github.com/mayarmajed2/skill-match)**
+### 06 · Multi-Agent AI Systems
 
-**Tech Trend Coach**
+**Featured Project — [SYNAPSE: Autonomous AI Software Engineering Platform](https://github.com/mayarmajed2/SYNAPSE-AI-Platform)**
 
-A Telegram-based technology trend coaching application that extracts technology news from RSS feeds, identifies trending keywords, generates learning quests, and rewards users through an XP and ranking system.
+A virtual software engineering team in which **nine specialized AI agents** collaborate to take software projects through planning, architecture, development, review, testing, security, and documentation.
 
-- RSS feed extraction.
-- Trend and keyword analysis.
-- Automated Telegram notifications.
-- Scheduled updates every six hours.
-- Weekly quests and gamification.
-
-**Tech Stack:**
-
-`Python` `Telegram Bot API` `RSS` `Feedparser` `APScheduler`
-
-🔗 **[Explore Tech Trend Coach](https://github.com/mayarmajed2/PI_TECH)**
-
-### 05. AI Agents & MCP
-
-Exploring tool-enabled AI applications and connecting AI models through standardized interfaces.
-
-**Agent Router MCP**
-
-A lightweight MCP server that exposes an AI chat capability as a tool and connects to an OpenAI-compatible Agent Router API.
-
-- MCP tool development.
-- Asynchronous API communication.
-- Configurable model selection.
-- Streamable HTTP transport.
-
-**Tech Stack:**
-
-`Python` `MCP` `FastMCP` `OpenAI SDK` `AsyncIO`
-
-🔗 **[Explore Agent Router MCP](https://github.com/mayarmajed2/agent-router-mcp)**
-
-### 06. Multi-Agent AI Systems
-
-**Featured Project: SYNAPSE — Autonomous AI Software Engineering Platform**
-
-A virtual software engineering company powered by nine specialized AI agents collaborating to transform software requirements into working software.
-
-**The 9 Specialized Agents:**
-
-| Agent | Responsibility |
+| Specialized Agent | Responsibility |
 |---|---|
 | Supervisor | Orchestration and task decomposition |
 | Product Manager | Requirements and user stories |
@@ -182,84 +137,80 @@ A virtual software engineering company powered by nine specialized AI agents col
 | Security Agent | Security analysis |
 | Documentation Agent | Technical documentation |
 
-**Platform Capabilities:**
-- Autonomous multi-agent workflows.
-- Task dependency management.
-- AI-powered code generation.
-- Real-time execution updates through WebSockets.
-- Human approval checkpoints.
-- Automated QA and security scans.
-- Generated code and documentation artifacts.
-- Project analytics and monitoring.
+**Platform capabilities**
+- Multi-agent workflows and task dependencies
+- AI-assisted software development
+- Real-time execution updates through WebSockets
+- Human approval checkpoints
+- Automated QA and security workflows
+- Generated code and documentation artifacts
 
-**Tech Stack:**
+**Tech:** `Python` · `FastAPI` · `LLMs` · `PostgreSQL` · `React 19` · `TypeScript` · `WebSockets` · `Docker`
 
-`Python` `FastAPI` `Groq` `LLMs` `PostgreSQL` `SQLAlchemy` `React 19` `TypeScript` `WebSockets` `Docker`
+### 07 · Embedded Systems & IoT
 
-🔗 **[Explore SYNAPSE AI Platform](https://github.com/mayarmajed2/SYNAPSE-AI-Platform)**
+**[ESP32 Server Bot](https://github.com/mayarmajed2/ESP32-SERVER-BOT)**
+
+An ESP32-based web server with user registration and login, SD-card data storage, and Telegram notifications.
+
+**Tech:** `ESP32` · `Arduino` · `C++` · `Wi-Fi` · `Telegram Bot API` · `ArduinoJson`
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<div align="center">
 
-### Machine Learning & Deep Learning
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+**Programming**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,sql" alt="Programming skills" />
 
-### Generative AI & AI Agents
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-0891B2?style=flat-square)
-![Diffusers](https://img.shields.io/badge/Diffusers-FFD21E?style=flat-square)
+**Machine Learning & AI**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv" alt="AI skills" />
+<br/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP-0891B2?style=flat-square" />
 
-### Data Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+**Data & Analytics**
+<br/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas" alt="Data skills" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 
-### Backend & Frontend Development
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Backend, Frontend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,mongodb,postgres,docker" alt="Development skills" />
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,arduino" alt="Tools" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+
+</div>
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-- Microsoft Machine Learning Engineer — Digital Egypt Pioneers Initiative (DEPI).
-- AI for All: From Basics to GenAI Practice — NVIDIA.
-- Building LLM Applications With Prompt Engineering — NVIDIA.
-- Python Programming Basics — ITI Mahara-Tech.
-- AWS AI Practitioner Challenge — Udacity.
-- Honorable Mention — 2024 ICPC ECPC Qualifications.
+- **Microsoft Machine Learning Engineer** — Digital Egypt Pioneers Initiative (DEPI)
+- **AI for All: From Basics to GenAI Practice** — NVIDIA
+- **Building LLM Applications With Prompt Engineering** — NVIDIA
+- **Python Programming Basics** — ITI Mahara-Tech
+- **AWS AI Practitioner Challenge** — Udacity
+- **Honorable Mention** — 2024 ICPC ECPC Qualifications
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Information Technology & Computer Science**
-
-Sinai University | 2023 – 2027
-
+**Bachelor of Information Technology & Computer Science**  
+Sinai University · 2023–2027  
 CGPA: 3.074 / 4.0
-
----
 
 ## 🌐 Languages
 
@@ -268,17 +219,16 @@ CGPA: 3.074 / 4.0
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mayarmajed2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayarmajed2&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mayarmajed2&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayarmajed2&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=mayarmajed2&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=mayarmajed2&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
@@ -286,22 +236,25 @@ CGPA: 3.074 / 4.0
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with people working in AI, Machine Learning, Generative AI, and intelligent software systems.
+I'm open to connecting with people interested in Machine Learning, Generative AI, and intelligent software systems.
 
 <div align="center">
 
 <a href="https://github.com/mayarmajed2">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/mayarmajed">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<a href="https://www.kaggle.com/mayarmajed">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </a>
-<a href="mailto:mayarmagid2005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://huggingface.co/mayarmajed">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</a>
+<a href="mailto:m.fathallah2386@su.edu.eg">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:6C63FF&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,45:243B55,100:6C63FF&height=120&section=footer" width="100%" />
 
 </div>
