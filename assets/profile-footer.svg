@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" width="100%" role="img" aria-label="Building Intelligent Systems · Cairo, Egypt">
+  <defs>
+    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#090910"/>
+      <stop offset="50%" stop-color="#131126"/>
+      <stop offset="100%" stop-color="#090910"/>
+    </linearGradient>
+
+    <linearGradient id="footer-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="28%" stop-color="#7C5CFF" stop-opacity="0.85"/>
+      <stop offset="50%" stop-color="#FF4D8D" stop-opacity="0.95"/>
+      <stop offset="72%" stop-color="#FB923C" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="98" rx="14" fill="url(#footer-bg)" stroke="#23233A" stroke-width="1.2"/>
+  <rect x="60" y="1" width="1080" height="2" rx="1" fill="url(#footer-line)"/>
+
+  <!-- Left Subtle Nodes -->
+  <line x1="72" y1="50" x2="128" y2="38" stroke="#7C5CFF" stroke-opacity="0.35" stroke-width="1.2"/>
+  <line x1="128" y1="38" x2="174" y2="62" stroke="#38BDF8" stroke-opacity="0.3" stroke-width="1.2"/>
+  <circle cx="72" cy="50" r="3.5" fill="#FF4D8D">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="128" cy="38" r="3" fill="#7C5CFF"/>
+  <circle cx="174" cy="62" r="3.5" fill="#38BDF8">
+    <animate attributeName="opacity" values="1;0.45;1" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Right Subtle Nodes -->
+  <line x1="1026" y1="62" x2="1072" y2="38" stroke="#FB923C" stroke-opacity="0.3" stroke-width="1.2"/>
+  <line x1="1072" y1="38" x2="1128" y2="50" stroke="#FF4D8D" stroke-opacity="0.35" stroke-width="1.2"/>
+  <circle cx="1026" cy="62" r="3.5" fill="#FB923C">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1072" cy="38" r="3" fill="#7C5CFF"/>
+  <circle cx="1128" cy="50" r="3.5" fill="#38BDF8">
+    <animate attributeName="opacity" values="1;0.5;1" dur="2.7s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Centered Tagline -->
+  <text x="600" y="47" text-anchor="middle" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="0.3">
+    Building Intelligent AI Systems · From Research to Production
+  </text>
+  <text x="600" y="70" text-anchor="middle" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="1.4">
+    MACHINE LEARNING · GENERATIVE AI · MULTI-AGENT ARCHITECTURES · CAIRO, EGYPT
+  </text>
+</svg>

@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="100%" role="img" aria-label="Mayar Majed Hussien — Machine Learning Engineer, Generative AI &amp; Autonomous Multi-Agent Systems">
+  <defs>
+    <linearGradient id="bg-base" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090910"/>
+      <stop offset="52%" stop-color="#111022"/>
+      <stop offset="100%" stop-color="#0B1324"/>
+    </linearGradient>
+
+    <radialGradient id="glow-iris" cx="78%" cy="32%" r="48%">
+      <stop offset="0%" stop-color="#7C5CFF" stop-opacity="0.34"/>
+      <stop offset="55%" stop-color="#7C5CFF" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#090910" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glow-coral" cx="18%" cy="18%" r="42%">
+      <stop offset="0%" stop-color="#FF4D8D" stop-opacity="0.22"/>
+      <stop offset="60%" stop-color="#FB923C" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#090910" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glow-cyan" cx="84%" cy="76%" r="40%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.24"/>
+      <stop offset="65%" stop-color="#38BDF8" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#090910" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="aurora-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF4D8D" stop-opacity="0.85"/>
+      <stop offset="35%" stop-color="#FB923C" stop-opacity="0.85"/>
+      <stop offset="68%" stop-color="#7C5CFF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.85"/>
+    </linearGradient>
+
+    <linearGradient id="name-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="62%" stop-color="#F1F5F9"/>
+      <stop offset="100%" stop-color="#C4B5FD"/>
+    </linearGradient>
+
+    <linearGradient id="star-core" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF4D8D"/>
+      <stop offset="48%" stop-color="#FB923C"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+
+    <pattern id="micro-grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#94A3B8" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+
+    <filter id="soft-blur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+  </defs>
+
+  <!-- Canvas -->
+  <rect x="1" y="1" width="1198" height="278" rx="18" fill="url(#bg-base)" stroke="#23233A" stroke-width="1.5"/>
+  <rect x="2" y="2" width="1196" height="276" rx="17" fill="url(#micro-grid)"/>
+  <rect x="2" y="2" width="1196" height="276" rx="17" fill="url(#glow-coral)"/>
+  <rect x="2" y="2" width="1196" height="276" rx="17" fill="url(#glow-iris)"/>
+  <rect x="2" y="2" width="1196" height="276" rx="17" fill="url(#glow-cyan)"/>
+
+  <!-- Top Aurora Accent Bar -->
+  <rect x="24" y="1.5" width="1152" height="2.5" rx="1.25" fill="url(#aurora-line)"/>
+
+  <!-- Right Constellation Graphic -->
+  <g transform="translate(970, 140)">
+    <!-- Outer dashed orbit -->
+    <circle r="106" fill="none" stroke="#7C5CFF" stroke-opacity="0.22" stroke-width="1" stroke-dasharray="4 6">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="42s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="76" fill="none" stroke="#38BDF8" stroke-opacity="0.20" stroke-width="1" stroke-dasharray="2 5">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="30s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Ambient Star Links -->
+    <g stroke-width="1.3" stroke-opacity="0.52">
+      <line x1="0" y1="0" x2="0" y2="-74" stroke="#38BDF8"/>
+      <line x1="0" y1="0" x2="70" y2="-22" stroke="#FF4D8D"/>
+      <line x1="0" y1="0" x2="44" y2="62" stroke="#FB923C"/>
+      <line x1="0" y1="0" x2="-46" y2="60" stroke="#7C5CFF"/>
+      <line x1="0" y1="0" x2="-72" y2="-20" stroke="#38BDF8"/>
+
+      <polygon points="0,-74 70,-22 44,62 -46,60 -72,-20" fill="none" stroke="#94A3B8" stroke-opacity="0.22" stroke-width="1"/>
+      <line x1="0" y1="-74" x2="44" y2="62" stroke="#7C5CFF" stroke-opacity="0.22"/>
+      <line x1="70" y1="-22" x2="-46" y2="60" stroke="#FF4D8D" stroke-opacity="0.22"/>
+      <line x1="-72" y1="-20" x2="70" y2="-22" stroke="#38BDF8" stroke-opacity="0.20"/>
+    </g>
+
+    <!-- Distant Ambient Field Nodes -->
+    <circle cx="-132" cy="-58" r="2.5" fill="#38BDF8" opacity="0.55"/>
+    <circle cx="-158" cy="48" r="2" fill="#FF4D8D" opacity="0.5"/>
+    <circle cx="136" cy="-64" r="2.5" fill="#FB923C" opacity="0.55"/>
+    <circle cx="144" cy="54" r="2" fill="#7C5CFF" opacity="0.6"/>
+    <line x1="-72" y1="-20" x2="-132" y2="-58" stroke="#38BDF8" stroke-opacity="0.18" stroke-width="1"/>
+    <line x1="-46" y1="60" x2="-158" y2="48" stroke="#FF4D8D" stroke-opacity="0.16" stroke-width="1"/>
+    <line x1="70" y1="-22" x2="136" y2="-64" stroke="#FB923C" stroke-opacity="0.18" stroke-width="1"/>
+
+    <!-- Center Glowing Star Core -->
+    <circle r="20" fill="url(#star-core)" opacity="0.28" filter="url(#soft-blur)"/>
+    <circle r="11" fill="#090910" stroke="url(#star-core)" stroke-width="2.5"/>
+    <circle r="4.5" fill="#FFFFFF">
+      <animate attributeName="r" values="4;5.8;4" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- 5 Orbit Nodes -->
+    <circle cx="0" cy="-74" r="6.5" fill="#38BDF8">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="70" cy="-22" r="6" fill="#FF4D8D">
+      <animate attributeName="opacity" values="1;0.65;1" dur="3.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="44" cy="62" r="6" fill="#FB923C">
+      <animate attributeName="opacity" values="0.75;1;0.75" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-46" cy="60" r="6.5" fill="#7C5CFF">
+      <animate attributeName="opacity" values="1;0.7;1" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-72" cy="-20" r="5.5" fill="#38BDF8">
+      <animate attributeName="opacity" values="0.65;1;0.65" dur="2.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Eyebrow Status Pill -->
+  <g transform="translate(56, 44)">
+    <rect x="0" y="0" width="332" height="28" rx="14" fill="#131325" stroke="#2D2D4D" stroke-width="1"/>
+    <circle cx="16" cy="14" r="4" fill="#10B981">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="29" y="18.5" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="1.1">
+      CAIRO, EGYPT · MACHINE LEARNING &amp; AI AGENTS
+    </text>
+  </g>
+
+  <!-- Main Display Name -->
+  <text x="56" y="128" fill="url(#name-grad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="-0.8">
+    Mayar Majed Hussien
+  </text>
+
+  <!-- Subtitle -->
+  <text x="56" y="164" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="17" font-weight="500">
+    Machine Learning Engineer · Generative AI · Autonomous Multi-Agent Systems
+  </text>
+
+  <!-- Specialty Chips -->
+  <g transform="translate(56, 198)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">
+    <rect x="0" y="0" width="166" height="34" rx="10" fill="#131324" stroke="#FF4D8D" stroke-opacity="0.45" stroke-width="1"/>
+    <circle cx="15" cy="17" r="3.5" fill="#FF4D8D"/>
+    <text x="26" y="21.5" fill="#F8FAFC">10-Agent AI Systems</text>
+
+    <rect x="178" y="0" width="152" height="34" rx="10" fill="#131324" stroke="#7C5CFF" stroke-opacity="0.45" stroke-width="1"/>
+    <circle cx="193" cy="17" r="3.5" fill="#7C5CFF"/>
+    <text x="204" y="21.5" fill="#F8FAFC">Multimodal GenAI</text>
+
+    <rect x="342" y="0" width="150" height="34" rx="10" fill="#131324" stroke="#FB923C" stroke-opacity="0.45" stroke-width="1"/>
+    <circle cx="357" cy="17" r="3.5" fill="#FB923C"/>
+    <text x="368" y="21.5" fill="#F8FAFC">NASA Space Apps</text>
+
+    <rect x="504" y="0" width="132" height="34" rx="10" fill="#131324" stroke="#38BDF8" stroke-opacity="0.45" stroke-width="1"/>
+    <circle cx="519" cy="17" r="3.5" fill="#38BDF8"/>
+    <text x="530" y="21.5" fill="#F8FAFC">Full-Stack AI</text>
+  </g>
+</svg>
