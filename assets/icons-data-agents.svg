@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 338 48" width="338" height="48" role="img" aria-label="Autonomous Agents &amp; Scientific Computing Icons">
+  <!-- Tile 1: Multi-Agent Swarm Network -->
+  <g transform="translate(0, 0)">
+    <rect width="48" height="48" rx="11" fill="#161822" stroke="#2A2D3E" stroke-width="1"/>
+    <line x1="24" y1="12" x2="13" y2="32" stroke="#7C5CFF" stroke-width="1.8"/>
+    <line x1="24" y1="12" x2="35" y2="32" stroke="#FF4D8D" stroke-width="1.8"/>
+    <line x1="13" y1="32" x2="35" y2="32" stroke="#38BDF8" stroke-width="1.8"/>
+    <circle cx="24" cy="12" r="4.5" fill="#38BDF8"/>
+    <circle cx="13" cy="32" r="4.5" fill="#7C5CFF"/>
+    <circle cx="35" cy="32" r="4.5" fill="#FF4D8D"/>
+    <circle cx="24" cy="24" r="3" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Tile 2: MCP Protocol Hub -->
+  <g transform="translate(58, 0)">
+    <rect width="48" height="48" rx="11" fill="#161822" stroke="#2A2D3E" stroke-width="1"/>
+    <rect x="16" y="16" width="16" height="16" rx="4" fill="none" stroke="#38BDF8" stroke-width="2.2"/>
+    <line x1="24" y1="9" x2="24" y2="16" stroke="#FB923C" stroke-width="2.2" stroke-linecap="round"/>
+    <line x1="24" y1="32" x2="24" y2="39" stroke="#FB923C" stroke-width="2.2" stroke-linecap="round"/>
+    <line x1="9" y1="24" x2="16" y2="24" stroke="#10B981" stroke-width="2.2" stroke-linecap="round"/>
+    <line x1="32" y1="24" x2="39" y2="24" stroke="#10B981" stroke-width="2.2" stroke-linecap="round"/>
+    <circle cx="24" cy="24" r="3" fill="#38BDF8"/>
+  </g>
+
+  <!-- Tile 3: NumPy N-Dim Cube -->
+  <g transform="translate(116, 0)">
+    <rect width="48" height="48" rx="11" fill="#161822" stroke="#2A2D3E" stroke-width="1"/>
+    <polygon points="24,10 36,17 24,24 12,17" fill="#38BDF8"/>
+    <polygon points="12,17 24,24 24,38 12,31" fill="#0284C7"/>
+    <polygon points="36,17 24,24 24,38 36,31" fill="#0369A1"/>
+  </g>
+
+  <!-- Tile 4: Pandas DataFrames -->
+  <g transform="translate(174, 0)">
+    <rect width="48" height="48" rx="11" fill="#161822" stroke="#2A2D3E" stroke-width="1"/>
+    <rect x="13" y="11" width="4.5" height="26" rx="2" fill="#7C5CFF"/>
+    <rect x="21.5" y="11" width="4.5" height="10" rx="2" fill="#FF4D8D"/>
+    <rect x="21.5" y="24" width="4.5" height="4.5" rx="1.5" fill="#FACC15"/>
+    <rect x="21.5" y="31" width="4.5" height="6" rx="2" fill="#7C5CFF"/>
+    <rect x="30" y="11" width="4.5" height="26" rx="2" fill="#38BDF8"/>
+  </g>
+
+  <!-- Tile 5: Matplotlib & Statistical Distributions -->
+  <g transform="translate(232, 0)">
+    <rect width="48" height="48" rx="11" fill="#161822" stroke="#2A2D3E" stroke-width="1"/>
+    <path d="M10 35 C15 35, 18 14, 24 14 C30 14, 33 35, 38 35" fill="none" stroke="#10B981" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M10 35 C16 35, 20 22, 27 22 C33 22, 35 35, 38 35" fill="none" stroke="#FB923C" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Tile 6: Jupyter & Kaggle Notebooks -->
+  <g transform="translate(290, 0)">
+    <rect width="48" height="48" rx="11" fill="#161822" stroke="#2A2D3E" stroke-width="1"/>
+    <ellipse cx="24" cy="24" rx="13" ry="6.5" fill="none" stroke="#FB923C" stroke-width="2.4" transform="rotate(-22 24 24)"/>
+    <circle cx="33" cy="12" r="2.6" fill="#94A3B8"/>
+    <circle cx="14" cy="35" r="3" fill="#FB923C"/>
+    <circle cx="15" cy="14" r="2" fill="#38BDF8"/>
+  </g>
+</svg>

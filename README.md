@@ -143,43 +143,64 @@ A multi-agent AI orchestration platform where **10 specialized LLM agents** coll
 
 **Deep Learning & Machine Learning Core**
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,python,cpp" alt="Deep Learning & ML Core" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,python,cpp,anaconda" alt="Deep Learning & ML Core" />
 <br/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 <img src="https://img.shields.io/badge/TensorFlow%20%26%20Keras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/Deep%20Neural%20Networks-7C5CFF?style=for-the-badge" alt="Deep Neural Networks" />
-<img src="https://img.shields.io/badge/Transfer%20Learning%20%26%20Fine--Tuning-38BDF8?style=for-the-badge" alt="Transfer Learning" />
+<img src="https://img.shields.io/badge/Deep%20Neural%20Networks-7C5CFF?style=for-the-badge&logo=keras&logoColor=white" alt="Deep Neural Networks" />
+<img src="https://img.shields.io/badge/Transfer%20Learning%20%26%20Fine--Tuning-38BDF8?style=for-the-badge&logo=nvidia&logoColor=white" alt="Transfer Learning" />
 
 <br/><br/>
 
 **Computer Vision & Spatial Image Analytics**
 <br/>
+<img src="assets/icons-vision.svg" alt="Computer Vision & Spatial Image Analytics Icons" height="48" />
+<br/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/Vision%20Transformers%20(ViT)-FF4D8D?style=for-the-badge" alt="ViT" />
-<img src="https://img.shields.io/badge/CNNs%20%26%20Feature%20Backbones-7C5CFF?style=for-the-badge" alt="CNNs" />
-<img src="https://img.shields.io/badge/Face%20%26%20Object%20Detection-FB923C?style=for-the-badge" alt="Object Detection" />
-<img src="https://img.shields.io/badge/K--Means%20Color%20Quantization%20%26%20Heatmaps-10B981?style=for-the-badge" alt="Color Quantization" />
+<img src="https://img.shields.io/badge/Vision%20Transformers%20(ViT)-FF4D8D?style=for-the-badge&logo=huggingface&logoColor=black" alt="ViT" />
+<img src="https://img.shields.io/badge/CNNs%20%26%20Feature%20Backbones-7C5CFF?style=for-the-badge&logo=pytorch&logoColor=white" alt="CNNs" />
+<img src="https://img.shields.io/badge/Face%20%26%20Object%20Detection-FB923C?style=for-the-badge&logo=opencv&logoColor=white" alt="Object Detection" />
+<img src="https://img.shields.io/badge/K--Means%20Color%20Quantization%20%26%20Heatmaps-10B981?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Color Quantization" />
 
 <br/><br/>
 
 **Multimodal Generative AI, Diffusion & NLP**
 <br/>
+<img src="assets/icons-genai.svg" alt="Multimodal Generative AI, Diffusion & NLP Icons" height="48" />
+<br/>
 <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
-<img src="https://img.shields.io/badge/Diffusers%20%26%20Stable%20Diffusion-FF4D8D?style=for-the-badge" alt="Stable Diffusion" />
-<img src="https://img.shields.io/badge/BLIP%20Vision--Language-38BDF8?style=for-the-badge" alt="BLIP" />
-<img src="https://img.shields.io/badge/DistilRoBERTa%20%26%20BERT%20NLP-A855F7?style=for-the-badge" alt="DistilRoBERTa" />
-<img src="https://img.shields.io/badge/Conditioned%20Prompt%20Synthesis-FB923C?style=for-the-badge" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/Diffusers%20%26%20Stable%20Diffusion-FF4D8D?style=for-the-badge&logo=pytorch&logoColor=white" alt="Stable Diffusion" />
+<img src="https://img.shields.io/badge/BLIP%20Vision--Language-38BDF8?style=for-the-badge&logo=huggingface&logoColor=black" alt="BLIP" />
+<img src="https://img.shields.io/badge/DistilRoBERTa%20%26%20BERT%20NLP-A855F7?style=for-the-badge&logo=huggingface&logoColor=black" alt="DistilRoBERTa" />
+<img src="https://img.shields.io/badge/Conditioned%20Prompt%20Synthesis-FB923C?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
 
 <br/><br/>
 
 **Autonomous AI Agents, LLM Inference & Scientific Computing**
 <br/>
-<img src="https://img.shields.io/badge/Groq%20%26%20Llama%203.3%2070B-FB923C?style=for-the-badge" alt="Groq Llama 3" />
-<img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-7C5CFF?style=for-the-badge" alt="Multi-Agent Systems" />
-<img src="https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-0891B2?style=for-the-badge" alt="MCP" />
-<img src="https://img.shields.io/badge/NumPy%20%C2%B7%20Pandas%20%C2%B7%20Matplotlib-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Scientific Computing" />
-<img src="https://img.shields.io/badge/FastAPI%20%C2%B7%20Streamlit%20%C2%B7%20Docker-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="ML Serving" />
+<img src="assets/icons-data-agents.svg" alt="Autonomous Agents & Scientific Computing Icons" height="48" />
+<br/>
+<img src="https://img.shields.io/badge/Groq%20%26%20Llama%203.3%2070B-FB923C?style=for-the-badge&logo=meta&logoColor=white" alt="Groq Llama 3" />
+<img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-7C5CFF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Multi-Agent Systems" />
+<img src="https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-0891B2?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="MCP" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Jupyter%20%26%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle & Jupyter" />
+
+<br/><br/>
+
+**Core Engineering Principles, MLOps & Production Infrastructure**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,fastapi,postgres,sqlite,aws,azure,bash" alt="Core Engineering Principles & MLOps" />
+<br/>
+<img src="https://img.shields.io/badge/Docker%20%26%20Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub%20Workflows-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git & GitHub" />
+<img src="https://img.shields.io/badge/Linux%20%26%20Shell-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/FastAPI%20%26%20Async%20Inference-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/PostgreSQL%20%C2%B7%20SQL%20%C2%B7%20SQLAlchemy-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL & SQL" />
+<img src="https://img.shields.io/badge/AWS%20%26%20Azure%20AI-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS & Azure AI" />
 
 </div>
 
@@ -197,12 +218,12 @@ A multi-agent AI orchestration platform where **10 specialized LLM agents** coll
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 NLP, Agentic Architectures &amp; ML Engineering</h4>
+      <h4>⚙️ Agentic Systems, MLOps &amp; Engineering Principles</h4>
       <ul>
-        <li><strong>NLP &amp; Affective Computing:</strong> Multi-class emotion &amp; sentiment inference, transformer tokenization, semantic embeddings &amp; programmatic prompt engineering</li>
-        <li><strong>Autonomous Multi-Agent Systems:</strong> Directed multi-agent task graphs, Model Context Protocol (<code>MCP</code> / <code>FastMCP</code>), asynchronous tool routing &amp; human-in-the-loop gating</li>
-        <li><strong>Inference &amp; Hardware Efficiency:</strong> Sequential CPU/GPU VRAM offloading, low-latency LLM routing (<code>Groq</code>, <code>Llama 3</code>), batch processing &amp; deterministic fallback pipelines</li>
-        <li><strong>ML Serving &amp; Production Tooling:</strong> Containerized inference APIs (<code>FastAPI</code>, <code>Docker</code>), interactive evaluation studios (<code>Streamlit</code>, <code>React</code>), <code>Git</code>, <code>Linux</code>, <code>AWS</code> &amp; <code>Azure AI</code></li>
+        <li><strong>NLP &amp; Autonomous Agents:</strong> Multi-class affect &amp; text inference, directed multi-agent task graphs, Model Context Protocol (<code>MCP</code> / <code>FastMCP</code>) &amp; human-in-the-loop gating</li>
+        <li><strong>Inference &amp; Hardware Efficiency:</strong> Sequential CPU/GPU VRAM offloading, low-latency LLM routing (<code>Groq</code>, <code>Llama 3.3 70B</code>), batch processing &amp; deterministic fallback pipelines</li>
+        <li><strong>Core Engineering Foundations:</strong> Clean modular architecture, OOP &amp; data structures (<code>Python</code>, <code>C++</code>), version control &amp; CI workflows (<code>Git</code>, <code>GitHub</code>), relational schema design (<code>PostgreSQL</code>, <code>SQLite</code>, <code>SQLAlchemy</code>) &amp; automated testing (<code>Pytest</code>, AST/SAST verification)</li>
+        <li><strong>MLOps &amp; Cloud Serving:</strong> Multi-stage non-root <code>Docker</code> containers, <code>Linux</code> environments, async model APIs (<code>FastAPI</code>, <code>WebSockets</code>), <code>Streamlit</code> evaluation studios, <code>AWS</code> &amp; <code>Azure AI</code></li>
       </ul>
     </td>
   </tr>
