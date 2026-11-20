@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 28" width="100%" role="presentation">
+  <defs>
+    <linearGradient id="div-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#7C5CFF" stop-opacity="0.45"/>
+      <stop offset="50%" stop-color="#FF4D8D" stop-opacity="0.7"/>
+      <stop offset="75%" stop-color="#FB923C" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <line x1="40" y1="14" x2="1160" y2="14" stroke="url(#div-line)" stroke-width="1.5"/>
+
+  <!-- Gliding Synaptic Pulse -->
+  <circle cy="14" r="3.5" fill="#38BDF8">
+    <animate attributeName="cx" values="120;1080;120" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cy="14" r="3" fill="#FF4D8D">
+    <animate attributeName="cx" values="1080;120;1080" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="14" r="4" fill="#7C5CFF">
+    <animate attributeName="r" values="3;5.5;3" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

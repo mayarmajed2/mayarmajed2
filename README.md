@@ -4,7 +4,11 @@
 
 <img src="assets/profile-banner.svg" alt="Mayar Majed Hussien — Machine Learning, Generative AI & AI Agents" width="100%" />
 
-<br/><br/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=19&duration=3200&pause=900&color=FF4D8D&center=true&vCenter=true&width=760&lines=Building+Machine+Learning+%26+Deep+Learning+Models;Exploring+Computer+Vision%2C+NLP+%26+Multimodal+GenAI;Designing+Collaborative+Multi-Agent+AI+Systems;Turning+Creative+AI+Ideas+Into+Interactive+Apps" alt="Typing Animation" />
+
+<br/>
 
 <a href="https://github.com/mayarmajed2">
   <img src="https://img.shields.io/badge/GitHub-mayarmajed2-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -21,24 +25,42 @@
 
 </div>
 
----
+<img src="assets/section-divider.svg" width="100%" alt="" />
 
 ## 👋 Get to Know Me
 
 Hi, I'm **Mayar** — a Machine Learning Engineer and Information Technology & Computer Science student at **Sinai University**, based in **Cairo, Egypt**.
 
-I love exploring how intelligent systems learn, perceive, and create. Most of my time goes into working with data, training neural networks, experimenting with **Computer Vision, NLP, and Multimodal Generative AI**, and designing **multi-agent systems** where AI models collaborate to solve practical problems.
+I love exploring how intelligent systems learn, perceive, and create. Most of my time goes into working with datasets, training neural networks, experimenting with **Computer Vision, NLP, and Multimodal Generative AI**, and designing **multi-agent systems** where AI models collaborate to solve practical problems.
 
 - 🎓 **Studying:** B.Sc. in Information Technology & Computer Science at Sinai University
 - 🧠 **What excites me:** Connecting creative AI (like turning human emotions into paintings) with structured engineering (like autonomous agent workflows)
 - 🌱 **Currently exploring:** LLM orchestration, Model Context Protocol (MCP), and multimodal pipelines
 - 🌐 **Languages:** Arabic (Native) · English (C1)
 
----
+<br/>
+
+<div align="center">
+  <img src="assets/ai-pipeline-flow.svg" alt="How I Work With AI — Perception, Deep Learning, Multimodal GenAI, and Multi-Agent Systems" width="100%" />
+</div>
+
+<details>
+<summary><strong>✨ Click to expand: How I approach an AI problem from idea to interactive app</strong></summary>
+
+<br/>
+
+1. **Understand the Data & Signal:** Start with Exploratory Data Analysis (EDA), feature engineering, and visual/text preprocessing (`Pandas`, `NumPy`, `OpenCV`).
+2. **Train, Fine-Tune & Evaluate:** Select or adapt the right architecture — classical ML (`Scikit-learn`), deep vision/text models (`PyTorch`, `ViT`, `DistilRoBERTa`), or generative pipelines (`Diffusers`, `LLMs`).
+3. **Orchestrate & Connect:** Combine models into cohesive workflows or multi-agent pipelines (`FastAPI`, `MCP`, `Groq`, `AsyncIO`).
+4. **Make It Usable:** Wrap the intelligence inside an intuitive interface (`React`, `TypeScript`, `Streamlit`) so anyone can interact with it.
+
+</details>
+
+<img src="assets/section-divider.svg" width="100%" alt="" />
 
 ## 🎨 A Peek at What I Enjoy Building
 
-Rather than listing every repository, here are two projects that reflect the two sides of what I love working on — **creative multimodal AI** and **collaborative AI agents**:
+Here are two projects that reflect the two sides of what I love working on — **creative multimodal AI** and **collaborative AI agents**:
 
 ### 1. [Emotion-to-Art AI — Painting Emotions in the Style of Van Gogh & the Masters](https://github.com/mayarmajed2/Emotion-Aware-Multi-Artist-Generative-Art-with-Al-Interpretation-on-Gradient1)
 
@@ -67,9 +89,19 @@ An offline multimodal AI application that reads human emotion from text or portr
   </tr>
 </table>
 
-- **How it works:** Combines `DistilRoBERTa` (text emotion), `Vision Transformer` (facial emotion), and `BLIP` (scene captioning) with `Stable Diffusion v1.5` and `OpenCV` color analytics inside a dark-mode `Streamlit` studio.
+<details>
+<summary><strong>🔍 Click to peek under the hood of Emotion-to-Art AI</strong></summary>
 
----
+<br/>
+
+- **Text Emotion Recognition:** `DistilRoBERTa` (`j-hartmann/emotion-english-distilroberta-base`) classifies text into 7 emotional dimensions.
+- **Facial Emotion & Scene Understanding:** Vision Transformer (`ViT`) detects facial emotions while `Salesforce BLIP` captions visual context.
+- **Artistic Style Translation & Generation:** Rule-based prompt engineering translates emotion scores into brushwork, lighting, and palette prompts for local `Stable Diffusion v1.5` (Van Gogh impasto swirls, Monet impressionism, Da Vinci sfumato).
+- **Computer Vision Analytics:** `OpenCV` + `K-Means` extracts the 5 dominant hex colors, generates saturation heatmaps, outlines facial regions via Haar Cascades, and builds an art critique word cloud.
+
+</details>
+
+<br/>
 
 ### 2. [SYNAPSE — Multi-Agent AI Software Engineering Workspace](https://github.com/mayarmajed2/SYNAPSE-AI-Platform)
 
@@ -92,39 +124,112 @@ An interactive workspace where **10 specialized AI agents** (from Product Manage
   </tr>
 </table>
 
-- **Try it live:** [**synapse-ai-platform-inky.vercel.app**](https://synapse-ai-platform-inky.vercel.app) · Built with `FastAPI`, `React 19`, `TypeScript`, `Groq Llama 3.3 70B`, `WebSockets`, and `Docker`.
+<details>
+<summary><strong>🧠 Click to see how the 10 AI Agents collaborate in SYNAPSE</strong></summary>
 
----
+<br/>
 
-## 🛠️ Tools I Enjoy Working With
+- **Live Workspace:** [**synapse-ai-platform-inky.vercel.app**](https://synapse-ai-platform-inky.vercel.app)
+- **10 Agent Roles:** Supervisor → Product Manager → System Architect → *(Human Approval Gate)* → Backend Dev → Frontend Dev → Code Reviewer → QA Engineer → Security Agent → Documentation Agent → DevOps Agent.
+- **Built With:** `FastAPI`, `React 19`, `TypeScript`, `Groq Llama 3.3 70B`, `SQLAlchemy 2.0`, `PostgreSQL / SQLite`, `WebSockets`, and `Docker`.
+
+</details>
+
+<img src="assets/section-divider.svg" width="100%" alt="" />
+
+## 🛠️ Skills & Technical Toolkit
 
 <div align="center">
 
-**Languages & Core Stack**
+**Programming Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,postgres" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css,bash" alt="Programming Languages" />
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 
 <br/><br/>
 
-**Machine Learning, Vision & Generative AI**
+**Machine Learning, Deep Learning & Computer Vision**
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv" alt="ML and Vision" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="ML, DL & Computer Vision" />
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow%20%2F%20Keras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/Vision%20Transformers%20(ViT)-7C5CFF?style=flat-square" alt="ViT" />
+<img src="https://img.shields.io/badge/CNNs%20%26%20Transfer%20Learning-38BDF8?style=flat-square" alt="Transfer Learning" />
+<img src="https://img.shields.io/badge/Feature%20Engineering%20%26%20EDA-10B981?style=flat-square" alt="Feature Engineering" />
+
+<br/><br/>
+
+**NLP, Generative AI, LLMs & Multi-Agent Systems**
 <br/>
 <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
-<img src="https://img.shields.io/badge/Stable%20Diffusion%20%2F%20Diffusers-7C5CFF?style=flat-square" alt="Diffusers" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/Groq%20%26%20LLMs-FB923C?style=flat-square" alt="Groq and LLMs" />
-<img src="https://img.shields.io/badge/MCP%20%26%20AI%20Agents-38BDF8?style=flat-square" alt="MCP and AI Agents" />
+<img src="https://img.shields.io/badge/Stable%20Diffusion%20%2F%20Diffusers-FF4D8D?style=flat-square" alt="Diffusers" />
+<img src="https://img.shields.io/badge/BLIP%20%26%20DistilRoBERTa-A855F7?style=flat-square" alt="BLIP and DistilRoBERTa" />
+<img src="https://img.shields.io/badge/Groq%20%26%20Llama%203-FB923C?style=flat-square" alt="Groq" />
+<img src="https://img.shields.io/badge/OpenAI%20SDK%20%26%20Prompt%20Engineering-412991?style=flat-square" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP%20%2F%20FastMCP)-0891B2?style=flat-square" alt="MCP" />
+<img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-7C5CFF?style=flat-square" alt="Multi-Agent" />
 
 <br/><br/>
 
-**Apps, Data & Workflow**
+**Data Science, Analytics & Visualization**
 <br/>
-<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,docker,git,github,linux" alt="Web and Tools" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Matplotlib%20%26%20Seaborn-11557C?style=flat-square" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+<img src="https://img.shields.io/badge/Google%20Colab%20%26%20Jupyter-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" alt="Colab" />
+
+<br/><br/>
+
+**Full-Stack Development, Databases, Cloud & IoT**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,nextjs,vite,tailwind,postgres,mongodb,sqlite" alt="Full-Stack & Databases" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,azure,vercel,arduino" alt="Cloud, DevOps & IoT" />
+<br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/SQLAlchemy%20%26%20Alembic-D71F00?style=flat-square" alt="SQLAlchemy" />
+<img src="https://img.shields.io/badge/WebSockets%20%26%20REST%20APIs-38BDF8?style=flat-square" alt="WebSockets" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
+<img src="https://img.shields.io/badge/ESP32%20%26%20Embedded%20IoT-00979D?style=flat-square&logo=arduino&logoColor=white" alt="ESP32" />
 
 </div>
 
----
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 AI &amp; Data Focus</h4>
+      <ul>
+        <li><strong>Machine Learning:</strong> Classification, regression, clustering (K-Means), preprocessing, feature engineering &amp; model evaluation</li>
+        <li><strong>Deep Learning &amp; Vision:</strong> CNNs, Transfer Learning, Vision Transformers (ViT), OpenCV image analytics &amp; Haar Cascades</li>
+        <li><strong>NLP &amp; Multimodal GenAI:</strong> Emotion classification (DistilRoBERTa), scene captioning (BLIP), Stable Diffusion &amp; prompt engineering</li>
+        <li><strong>Agentic Systems:</strong> Multi-agent workflows, Model Context Protocol (FastMCP), tool routing &amp; LLM orchestration</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Engineering &amp; Delivery</h4>
+      <ul>
+        <li><strong>Backend &amp; APIs:</strong> FastAPI, Node.js, Express.js, AsyncIO, WebSockets, JWT auth &amp; Swagger/OpenAPI docs</li>
+        <li><strong>Frontend &amp; UI:</strong> React 19, Next.js, TypeScript, Vite, Tailwind CSS &amp; interactive Streamlit dashboards</li>
+        <li><strong>Databases &amp; Analytics:</strong> PostgreSQL, MongoDB, SQLite, SQLAlchemy ORM, Pandas, Matplotlib &amp; Power BI</li>
+        <li><strong>Cloud &amp; Hardware:</strong> Docker, Git/GitHub, Linux, AWS, Azure AI, Vercel, Railway &amp; ESP32/Arduino IoT</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<img src="assets/section-divider.svg" width="100%" alt="" />
 
 ## 📊 GitHub Snapshot
 
@@ -135,7 +240,7 @@ An interactive workspace where **10 specialized AI agents** (from Product Manage
 
 </div>
 
----
+<img src="assets/section-divider.svg" width="100%" alt="" />
 
 ## 🤝 Let's Connect
 
@@ -160,6 +265,6 @@ Always happy to chat about **Machine Learning**, **Generative AI**, creative cod
 
 <br/><br/>
 
-<img src="assets/profile-footer.svg" alt="Building Intelligent AI Systems · Cairo, Egypt" width="100%" />
+<img src="assets/profile-footer.svg" alt="Thanks for stopping by · Cairo, Egypt" width="100%" />
 
 </div>
